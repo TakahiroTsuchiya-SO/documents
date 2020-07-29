@@ -15,3 +15,4 @@
 Layout.blade.phpなどでproductionモードとの場合分けを行い、CSSを読み込むようにする。
 
 ローカル環境ではSSL化(https)されていないので、production環境と分けて読み込む。
+
