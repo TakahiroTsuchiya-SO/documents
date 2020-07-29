@@ -14,6 +14,8 @@ git reset [--soft or --hard or no-option] [commitID]
 
 コミット履歴はgit logコマンドで確認することができる。
 
+git logを抜け出すにはターミナル上でqを押すだけ。
+
 
 
 ## resetの種類
@@ -34,9 +36,11 @@ addでステージングしたものは忘れられない。
 
 
 
+## 参照
 
+https://qiita.com/fnobi/items/ec036c1b5d7ee5a8517c
 
-
+https://murank.hatenadiary.org/entry/20110327/1301224770
 
 
 
