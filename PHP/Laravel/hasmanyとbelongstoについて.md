@@ -1,5 +1,7 @@
 # hasManyとBelongstoについて
 
+
+
 Modelに対してhasOne、hasMany、belongsTo、belongsToManyを定義することにより、Model間の関連を表すことが出来る。主従（親子）関係より、主（親）となる側にhasOne、hasManyを定義し、従（子）となる側にbelongsToを定義する。
 
 
